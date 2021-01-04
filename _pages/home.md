@@ -22,10 +22,12 @@ acknowledgements: ""
     <br>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <center><h1>Artificial Intelligence for Space</h1></center>
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
-    <br>
-    <br>
     <br>
     <br>
     <br>
