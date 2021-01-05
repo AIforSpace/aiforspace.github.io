@@ -56,7 +56,10 @@ acknowledgements: ""
 </div> 
 
 
+<hr>
 
+
+<br>
 <div class="row" id="maintainers">
   <div class="col-xs-12">
     <h2>Maintainers</h2>
