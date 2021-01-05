@@ -55,3 +55,34 @@ acknowledgements: ""
   </div>
 </div> 
 
+
+
+<div class="row" id="maintainers">
+  <div class="col-xs-12">
+    <h2>Maintainers</h2>
+  </div>
+</div>
+
+<div class="row">
+
+  <div class="col-xs-2">
+    <a href="https://cs.adelaide.edu.au/~tjchin">
+      <img class="people-pic" src="{{ "/static/img/people/tj.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin</a>
+      <h6>The University of Adelaide</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://bochenys.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://bochenys.github.io/">Bo Chen</a>
+      <h6>The University of Adelaide</h6>
+    </div>
+  </div>
+
+</div>
