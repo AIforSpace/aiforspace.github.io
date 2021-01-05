@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "AI for Space"
-title: "AI for Space"
-categories: cvpr, workshop, artificial intelligence, computer vision, space 
+urltitle:  "AI4Space"
+title: "AI4Space"
+categories: workshop, artificial intelligence, computer vision, space 
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
@@ -26,7 +26,7 @@ acknowledgements: ""
     <br>
     <br>
     <br>
-    <center><h1>Artificial Intelligence for Space</h1></center>
+    <center><h1>AI4Space Workshop Series</h1></center>
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
     <br>
     <br>
@@ -49,7 +49,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <p>
     <ul>
-      <li><a href='https://aiforspace.github.io/2021/'>1st CVPR Workshop on AI for Space, 2021</a></li>
+      <li><a href='https://aiforspace.github.io/2021/'>1st Workshop on AI for Space</a>, in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></li>
     </ul>
     </p>
   </div>
