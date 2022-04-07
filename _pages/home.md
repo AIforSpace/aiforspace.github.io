@@ -51,6 +51,9 @@ acknowledgements: ""
     <ul>
       <li><a href='https://aiforspace.github.io/2021/'>1st Workshop on AI for Space</a>, in conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></li>
     </ul>
+    <ul>
+      <li><a href='https://aiforspace.github.io/2022/'>2nd Workshop on AI for Space</a>, in conjunction with <a href="https://eccv2022.ecva.net/">ECCV 2022</a></li>
+    </ul>
     </p>
   </div>
 </div> 
